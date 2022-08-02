@@ -27,6 +27,14 @@ module.exports = {
             url: RINKEBY_RPC_URL,
         },
     },
+    gasReporter: {
+        enabled: true,
+        currency: "USD",
+        outputFile: "gas-report.txt",
+        noColors: true,
+        coinmarketcap: COINMARKETCAP_API_KEY,
+        token: "MATIC",
+    },
     solidity: "0.8.7",
     namedAccounts: {
         deployer: {
