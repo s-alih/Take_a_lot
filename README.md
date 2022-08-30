@@ -1,7 +1,7 @@
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-smartcontract-lottery-fcc
+git clone https://github.com/s-alih/Take_a_lot.git
 cd hardhat-smartcontract-lottery-fcc
 
 yarn 
